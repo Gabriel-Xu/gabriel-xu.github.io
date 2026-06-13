@@ -94,7 +94,7 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
                 d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772"></path></svg
             >
           </a>) }
-          { .github && (<a
+          { siteConfig.social?.github && (<a
             href={siteConfig.social.github}
             target="_blank"
             rel="noopener noreferrer"
