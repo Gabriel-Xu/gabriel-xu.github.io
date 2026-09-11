@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Gabriel Xu",
-  title: "Computer Science Student at Carnegie Mellon University",
+  title: "Computer Science @ Carnegie Mellon University",
   description: "Portfolio website of Gabriel Xu",
   accentColor: "#1d4ed8",
   social: {
