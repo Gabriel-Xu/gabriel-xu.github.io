@@ -68,23 +68,21 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
+      school: "Carnegie Mellon University",
       degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      dateRange: "",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "3.89 GPA",
+        "Dean's List with High Honors all semesters",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Thomas Jefferson High School for Science and Technology",
+      degree: "High School Diploma",
+      dateRange: "",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "National Merit Finalist",
+        "Perfect ACT Score (36 in all sections)",
       ],
     },
   ],
