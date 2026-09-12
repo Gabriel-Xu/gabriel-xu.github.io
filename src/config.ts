@@ -81,6 +81,7 @@ export const siteConfig = {
       degree: "High School Diploma",
       dateRange: "",
       achievements: [
+        "4.67 GPA",
         "National Merit Finalist",
         "Perfect ACT Score (36 in all sections)",
       ],
