@@ -36,33 +36,12 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "ST Engineering iDirect",
+      title: "Test Automation Engineering Intern",
+      dateRange: "May 2026 - Aug 2026",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Architected and deployed a Django and React web tool on Amazon Web Services (AWS) EKS and RDS with automated CI/CD pipelines, streamlining network tenant and modem reservation for 500+ engineers.",
+        "Leveraged the company’s satellite communication technology and testing framework, which extends Pytest, to set up GitLab pipelines to monitor network traffic and display status checks, test results, and usage statistics of networks.",
       ],
     },
   ],
