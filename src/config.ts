@@ -41,7 +41,16 @@ export const siteConfig = {
       dateRange: "May 2026 - Aug 2026",
       bullets: [
         "Architected and deployed a Django and React web tool on Amazon Web Services (AWS) EKS and RDS with automated CI/CD pipelines, streamlining network tenant and modem reservation for 500+ engineers.",
-        "Leveraged the company’s satellite communication technology and testing framework, which extends Pytest, to set up GitLab pipelines to monitor network traffic and display status checks, test results, and usage statistics of networks.",
+        "Established GitLab pipelines to monitor testing environments for satellite communication software, displaying hardware specification, software versions, status checks, test results, and usage statistics.",
+      ],
+    },
+    {
+      company: "AlphaStar Academy",
+      title: "Computer Science Instructor",
+      dateRange: "Jun 2025 - Aug 2025",
+      bullets: [
+        "Interactively explained new concepts and guided students through practice problems as instructor for the USACO Silver course and teaching assistant for the Python Programming and Java Programming courses.",
+        "Created Estimathon and Jeopardy web applications to use during instruction. Selected suitable practice problems for problem banks and wrote scripts to generate test data. Reached 50+ students across all roles.",
       ],
     },
   ],
