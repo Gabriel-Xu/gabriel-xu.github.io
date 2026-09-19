@@ -9,8 +9,8 @@ export const siteConfig = {
     github: "https://github.com/Gabriel-Xu",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I am a Computer Science student at Carnegie Mellon University, concentrating in Computer Systems. I am interested in high-performance systems engineering, advanced mathematics, and algorithmic theory.",
+  skills: ["C++", "Python", "C", "SQL", "JavaScript", "GitLab", "Docker", "AWS"],
   projects: [
     {
       name: "TJ Computer Team Online Judge",
