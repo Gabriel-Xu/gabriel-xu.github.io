@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I am a Computer Science student at Carnegie Mellon University, concentrating in Computer Systems. I am interested in high-performance systems engineering, advanced mathematics, and algorithmic theory.",
-  skills: ["C++", "Python", "C", "SQL", "JavaScript/TypeScript", "Java", "GitLab", "Docker", "AWS"],
+  skills: ["C++", "Python", "C", "SQL", "JavaScript/TypeScript", "Java", "GitLab", "Docker", "AWS", "Linux"],
   projects: [
     {
       name: "TJ Computer Team Online Judge",
